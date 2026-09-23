@@ -1,6 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:003B46,100:00D9FF&text=LUCAS.SAUDINO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Dados%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=17"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Estudante+de+Engenharia+de+Software;Desenvolvendo+conhecimentos+em+Python+e+C;Explorando+Banco+de+Dados+e+SQL;Estudando+Intelig%C3%AAncia+Artificial" alt="Typing Animation"/>
 
 </div>
@@ -9,21 +10,17 @@
 
 ## `> Sobre mim`
 
+```python
 lucas = {
-    "formação": "Engenharia de Software",
-    "foco": ["Desenvolvimento", "Banco de Dados", "IA"],
+    "formacao": "Engenharia de Software",
+    "foco": ["Desenvolvimento", "Banco de Dados", "Inteligência Artificial"],
     "estudando": ["Python", "C", "HTML", "SQL", "Engenharia de Prompt"]
 }
-
-    def objetivo(self):
-        return "Aprender, desenvolver e evoluir na área de tecnologia."
 ```
 
-Sou estudante de **Engenharia de Software**, desenvolvendo minha base em programação, 
-banco de dados e Inteligência Artificial.
+Sou estudante de **Engenharia de Software**, desenvolvendo minha base em programação, banco de dados e Inteligência Artificial.
 
-Atualmente, estou aprofundando meus conhecimentos em **Python, C, HTML e SQL**, 
-além de estudar **Inteligência Artificial e Engenharia de Prompt**.
+Atualmente, estou aprofundando meus conhecimentos em **Python, C, HTML e SQL**, além de estudar **Inteligência Artificial e Engenharia de Prompt**.
 
 Este perfil acompanha minha evolução acadêmica e os projetos que desenvolverei ao longo da minha formação.
 
@@ -180,7 +177,7 @@ Os próximos repositórios terão foco principalmente em:
 
 **Lucas.Saudino**
 
-`Engenharia de Software • Tecnologia • Inteligência Artificial`
+`Engenharia de Software • Dados • Inteligência Artificial`
 
 <br><br>
 
